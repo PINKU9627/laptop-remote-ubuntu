@@ -1,1 +1,1 @@
-This project contains Ubuntu bach script.
+This project contains Ubuntu bash script.
