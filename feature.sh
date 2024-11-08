@@ -15,5 +15,6 @@ echo "Check Installed Packages: $(sudo apt list --installed)"
 echo "Check running processes: $(ps aux)"
 echo "Check RAM usage: $(free -h)"
 echo "Check binary path: ${PATH}"
+echo "Check hidden files/dir: $(ls -al)"
 echo -e "\033[0;37m"
 
