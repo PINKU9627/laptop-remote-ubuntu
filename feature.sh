@@ -9,3 +9,4 @@ echo "Check os release: $(lsb_release -a)"
 echo "Update the system: $(sudo apt update)"
 echo "Upgrade the system: $(sudo apt upgrade -y)"
 echo -e "\033[0;37m"
+
