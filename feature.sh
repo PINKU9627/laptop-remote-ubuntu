@@ -10,3 +10,4 @@ echo "Update the system: $(sudo apt update)"
 echo "Upgrade the system: $(sudo apt upgrade -y)"
 echo "Install tree package: $(sudo apt install tree -y)"
 echo -e "\033[0;37m"
+
