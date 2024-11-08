@@ -17,4 +17,3 @@ echo "Check RAM usage: $(free -h)"
 echo "Check binary path: ${PATH}"
 echo "Check hidden files/dir: $(ls -al)"
 echo -e "\033[0;37m"
-
